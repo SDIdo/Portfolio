@@ -36,6 +36,8 @@ Project snippet:
 Tornado Graph from SHAP the 5 most impacting features
 
 ## [CycleGANMonet](https://github.com/SDIdo/CycleGANMonet)
+Computer Vision Project - Use GANs to create art.
+
 Please refer to the attached [Project Report](https://github.com/SDIdo/CycleGANMonet/blob/main/Project%20Report.pdf) for more inside elaboration on implementation.
  
  
