@@ -36,11 +36,9 @@ Project snippet:
 Tornado Graph from SHAP the 5 most impacting features
 
 ## [CycleGANMonet](https://github.com/SDIdo/CycleGANMonet)
-Please refer to the attached article for more inside elaboration.
+Please refer to the attached [Project Report](https://github.com/SDIdo/CycleGANMonet/blob/main/Project%20Report.pdf) for more inside elaboration on implementation.
  
  
- 
-
 # Backend Projects
 
 soon.
