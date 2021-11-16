@@ -1,10 +1,14 @@
-## Data Science Projects
+# Data Science Projects
 
-![Stocks Clustering](https://github.com/SDIdo/StocksClustering)
+##![Stocks Clustering](https://github.com/SDIdo/StocksClustering)
 
 Machine Learning Assignment 2
 
 Managed to find average daily return clusters of the sp500 stocks and analyzing the effect of Covid-19 on companies. Using various models and methods: Kmeans, Agglomerative Clustering and GMM.
+
+![](https://github.com/SDIdo/StocksClustering/blob/main/images/GMM_on_stocks.png)
+
+Clustering stocks with GMM - much better separation.
 
 ### Markdown
 
