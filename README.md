@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Data Science Projects
 
-You can use the [editor on GitHub](https://github.com/SDIdo/sdido_profolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![Stocks Clustering](https://github.com/SDIdo/StocksClustering)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Machine Learning Assignment 2
+
+Managed to find average daily return clusters of the sp500 stocks and analyzing the effect of Covid-19 on companies. Using various models and methods: Kmeans, Agglomerative Clustering and GMM.
 
 ### Markdown
 
