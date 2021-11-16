@@ -1,43 +1,38 @@
-# Data Science Projects
+# Data Science and Machine Learning Projects
 
-##![Stocks Clustering](https://github.com/SDIdo/StocksClustering)
+## ![Stocks Clustering](https://github.com/SDIdo/StocksClustering)
 
-Machine Learning Assignment 2
+Find average daily return clusters of the sp500 stocks and analyzing the effect of Covid-19
+on companies. Using various models and methods: Kmeans, Agglomerative Clustering and GMM.
 
-Managed to find average daily return clusters of the sp500 stocks and analyzing the effect of Covid-19 on companies. Using various models and methods: Kmeans, Agglomerative Clustering and GMM.
-
+Project snippet:
 ![](https://github.com/SDIdo/StocksClustering/blob/main/images/GMM_on_stocks.png)
-
 Clustering stocks with GMM - much better separation.
+ 
+ 
+ 
+## ![Hotel_Data_Insights](https://github.com/SDIdo/Hotel_Data_Insights)
 
-### Markdown
+In this project we use a dataset with over 150,000 entries based on real booking reservations made from various hotels in New York City. Througout the project we use various models and methods in order to predict discount codes.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+project snippet:
+![](https://github.com/SDIdo/Hotel_Data_Insights/blob/main/images/four_classes_cm.png)
+Confusion matrix of our neural network
+ 
+  
+  
+## ![ML4HC_Fairness](https://github.com/SDIdo/ML4HC_Fairness)
 
-```markdown
-Syntax highlighted code block
+Predicting heart disease with regards to Fairness.
 
-# Header 1
-## Header 2
-### Header 3
+Project snippet:
+![](https://github.com/SDIdo/ML4HC_Fairness/blob/main/images/shaply5most.png)
+Tornado Graph from SHAP the 5 most impacting features
 
-- Bulleted
-- List
+## ![CycleGANMonet](https://github.com/SDIdo/CycleGANMonet)
+Please refer to the attached article for more inside elaboration.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+# Backend Projects
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SDIdo/sdido_profolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+soon.
