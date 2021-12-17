@@ -40,7 +40,3 @@ Computer Vision Project - Use GANs to create art.
 
 Please refer to the attached [Project Report](https://github.com/SDIdo/CycleGANMonet/blob/main/Project%20Report.pdf) for more inside elaboration on implementation.
  
- 
-# Backend Projects
-
-soon.
