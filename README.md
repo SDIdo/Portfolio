@@ -11,7 +11,7 @@ If interested in the status of the groundwater then Xylene, MTBE, Toluene, Benze
 
 ### Project snippet:
 
-<a href="https://www.flightgear.org/">Fight Gear</a> is a cross platform free flight simulator written in C and C++.
+<a href="https://www.flightgear.org/">Fight Gear</a> is a free cross platform flight simulator written in C and C++.
 Flight Gear allows telnet connection via termnial or shell thus
 in this project we have established an autopilot feature for Flight Gear.
 By writing a file with flight commands and conditions written in a script format 
