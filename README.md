@@ -1,4 +1,11 @@
-# Data Science and Machine Learning
+## [AquaS-The Platform For Groundwater Pollution Risk Analysis](https://github.com/SDIdo/AquaS)
+
+### Project snippet:
+
+Scrolling down we have broad statistics regarding combined effect of each sample in function of time. If interested in the status of the soil PID and TPH are the measurements for pollution.
+If interested in the status of the groundwater then Xylene, MTBE, Toluene, Benzene and Ethylbenzene are the pollutants which we try to eliminate as much as we can from our groundwater. 
+
+<img src="images/stats2.png">
 
 ## [Stocks Clustering](https://github.com/SDIdo/StocksClustering)
 
