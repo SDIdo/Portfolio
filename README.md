@@ -7,6 +7,19 @@ If interested in the status of the groundwater then Xylene, MTBE, Toluene, Benze
 
 <img src="images/stats2.png">
 
+## [FlightSimulation in C++](https://github.com/SDIdo/FlightSimulation)
+
+### Project snippet:
+
+<a href="https://www.flightgear.org/">Fight Gear</a> is a cross platform free flight simulator written in C and C++.
+Flight Gear allows telnet connection via termnial or shell thus
+in this project we have established an autopilot feature for Flight Gear.
+By writing a file with flight commands and conditions written in a script format 
+our program can then take this file to translate and communicate it to Flight Gear.
+This project was delegated to communication part and the language part.
+
+<img src="images/cesna3.png">
+
 ## [Stocks Clustering](https://github.com/SDIdo/StocksClustering)
 
 Find average daily return clusters of the sp500 stocks and analyzing the effect of Covid-19
