@@ -1,5 +1,3 @@
-# 
-
 ## [AquaS-The Platform For Groundwater Pollution Risk Analysis](https://github.com/SDIdo/AquaS)
 
 ### Project snippet:
