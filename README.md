@@ -7,7 +7,7 @@ If interested in the status of the groundwater then Xylene, MTBE, Toluene, Benze
 
 <img src="images/stats2.png">
 
-## [FlightSimulation in C++](https://github.com/SDIdo/FlightSimulation)
+## [Flight Simulation Control in C++](https://github.com/SDIdo/FlightSimulation)
 
 ### Project snippet:
 
