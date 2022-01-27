@@ -12,6 +12,8 @@ Computer Vision Project - Use GANs to create art. <br>Scored 55.30 (1st score wa
 
 <a href="https://www.kaggle.com/c/gan-getting-started"><img src="images/monet.PNG"></a>
 
+Our results: <br> <img src="images/monet_inference.png">
+
 Please refer to the attached [Project Report](https://github.com/SDIdo/CycleGANMonet/blob/main/Project%20Report.pdf) for more inside elaboration on implementation.
 
 
