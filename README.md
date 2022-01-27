@@ -7,6 +7,14 @@ If interested in the status of the groundwater then Xylene, MTBE, Toluene, Benze
 
 <img src="images/stats2.png">
 
+## [CycleGANMonet](https://github.com/SDIdo/CycleGANMonet)
+Computer Vision Project - Use GANs to create art. <br>Scored 55.30 (1st score was around 30) on the Kaggle Challenge.
+
+<a href="https://www.kaggle.com/c/gan-getting-started"><img src="images/monet.PNG"></a>
+
+Please refer to the attached [Project Report](https://github.com/SDIdo/CycleGANMonet/blob/main/Project%20Report.pdf) for more inside elaboration on implementation.
+
+
 ## [Flight Simulation Control in C++](https://github.com/SDIdo/FlightSimulation)
 
 ### Project snippet:
@@ -19,13 +27,6 @@ our program can then take this file to translate and communicate it to Flight Ge
 This project was delegated to communication part and the language part.
 
 <img src="images/cesna3.png">
-
-## [CycleGANMonet](https://github.com/SDIdo/CycleGANMonet)
-Computer Vision Project - Use GANs to create art. <br>Scored 55.30 on the Kaggle Challenge.
-
-<a href="https://www.kaggle.com/c/gan-getting-started"><img src="images/monet.PNG"></a>
-
-Please refer to the attached [Project Report](https://github.com/SDIdo/CycleGANMonet/blob/main/Project%20Report.pdf) for more inside elaboration on implementation.
 
 ## [Stocks Clustering](https://github.com/SDIdo/StocksClustering)
 
