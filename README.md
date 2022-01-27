@@ -20,6 +20,11 @@ This project was delegated to communication part and the language part.
 
 <img src="images/cesna3.png">
 
+## [CycleGANMonet](https://github.com/SDIdo/CycleGANMonet)
+Computer Vision Project - Use GANs to create art.
+
+Please refer to the attached [Project Report](https://github.com/SDIdo/CycleGANMonet/blob/main/Project%20Report.pdf) for more inside elaboration on implementation.
+
 ## [Stocks Clustering](https://github.com/SDIdo/StocksClustering)
 
 Find average daily return clusters of the sp500 stocks and analyzing the effect of Covid-19
@@ -54,9 +59,4 @@ Project snippet:
 ![](images/shaply5most.png)
 
 Tornado Graph from SHAP the 5 most impacting features
-
-## [CycleGANMonet](https://github.com/SDIdo/CycleGANMonet)
-Computer Vision Project - Use GANs to create art.
-
-Please refer to the attached [Project Report](https://github.com/SDIdo/CycleGANMonet/blob/main/Project%20Report.pdf) for more inside elaboration on implementation.
  
